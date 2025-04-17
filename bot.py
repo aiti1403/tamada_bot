@@ -13,7 +13,7 @@ from aiogram.utils.keyboard import InlineKeyboardBuilder
 from aiogram.filters.callback_data import CallbackData
 
 # Конфигурация бота
-BOT_TOKEN = "7706634786:AAHtmLMPqGYqA0L_XV_8MQYwkbjrWxNEfqo"  # Замените на ваш токен
+BOT_TOKEN = "7956575657:AAE-wEUTf6twUrFTgMxLjshmSzrriWf9Ubc"  # Замените на ваш токен
 ADMIN_ID = 475354897  # Замените на ваш ID администратора
 
 # Настройка логирования
